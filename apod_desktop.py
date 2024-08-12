@@ -1,6 +1,8 @@
 """ 
 COMP 593 - Final Project
 
+Name: Ayush Navadiya, Rajat Patel, Amirash Thakkar
+
 Description: 
   Downloads NASA's Astronomy Picture of the Day (APOD) from a specified date
   and sets it as the desktop background image.

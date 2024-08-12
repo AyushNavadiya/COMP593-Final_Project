@@ -6,6 +6,7 @@ from PIL import ImageTk, Image
 import os
 import image_lib
 
+# TODO: Create the GUI
 script_dir = os.path.dirname(os.path.abspath(__file__))
 
 def display_image(event=None):
